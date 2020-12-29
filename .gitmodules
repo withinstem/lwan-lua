@@ -1,0 +1,3 @@
+[submodule "tools/ops-docker"]
+	path = tools/ops-docker
+	url = https://github.com/ops-tools/ops-docker.git

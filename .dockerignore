@@ -1,0 +1,5 @@
+*
+*/
+docker*.cfg
+!lwan/
+!wwwroot/

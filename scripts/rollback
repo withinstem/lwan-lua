@@ -1,0 +1,5 @@
+#!/bin/sh
+
+PATH="tools/ops-docker:${PATH}"
+
+ops-docker -c conf/docker.cfg rollback
